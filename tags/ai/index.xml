@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on HealthInfer</title>
+    <link>https://healthinfer.com/tags/ai/</link>
+    <description>Recent content in AI on HealthInfer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 15:44:26 +1000</lastBuildDate>
+    
+	<atom:link href="https://healthinfer.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Post</title>
+      <link>https://healthinfer.com/posts/my-first-post/</link>
+      <pubDate>Fri, 04 Sep 2020 15:44:26 +1000</pubDate>
+      
+      <guid>https://healthinfer.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Modern healthcare system has been progressing significantly over past couple of
+years. One of the main driven factors is the development of artificial
+intelligent. In this post, we will look at some key milestones of this
+progression.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

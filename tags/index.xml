@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HealthInfer</title>
+    <link>https://healthinfer.com/tags/</link>
+    <description>Recent content in Tags on HealthInfer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 15:44:26 +1000</lastBuildDate>
+    
+	<atom:link href="https://healthinfer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI</title>
+      <link>https://healthinfer.com/tags/ai/</link>
+      <pubDate>Fri, 04 Sep 2020 15:44:26 +1000</pubDate>
+      
+      <guid>https://healthinfer.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://healthinfer.com/tags/health/</link>
+      <pubDate>Fri, 04 Sep 2020 15:44:26 +1000</pubDate>
+      
+      <guid>https://healthinfer.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

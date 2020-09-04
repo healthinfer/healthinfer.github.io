@@ -1,0 +1,43 @@
+body{
+  /* background: red; */
+  width: 65vw;
+  margin: auto;
+}
+
+
+
+#content {
+  background: #fefefe;
+  min-height: 800px;
+}
+/* menu */
+#nav{
+  background: orange;
+  font-size: 1.6em;
+}
+
+#nav a{
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+
+@media only screen and (max-width: 600px){
+  body {
+    width: 100vw;
+  }
+
+  #nav {
+    font-size: 1.4em;
+  }
+
+  #content {
+    padding-left: 5pt;
+    padding-right: 5pt;
+  }
+
+  .footer {
+    padding-left: 5pt;
+    padding-right: 5pt;
+  }
+}
