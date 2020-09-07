@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HealthInfer</title>
-    <link>https://healthinfer.com/</link>
-    <description>Recent content on HealthInfer</description>
+    <title>HealthCare on HealthInfer</title>
+    <link>https://healthinfer.com/tags/healthcare/</link>
+    <description>Recent content in HealthCare on HealthInfer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Sep 2020 09:30:11 +1000</lastBuildDate>
     
-	<atom:link href="https://healthinfer.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://healthinfer.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
