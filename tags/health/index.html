@@ -6,7 +6,7 @@
   <meta name="description" content="HealthInfer empowers healthcare system with
   artificial intelligence (AI) technology">
   <meta name="author" content="Nikon Sugar">
-
+  
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
@@ -126,7 +126,13 @@
 
 
       <a class="summary" href="/posts/sample-post/">
-          <p><p><img src="%22/image/post/ai-healthcare.jpg%22" alt="AI and HealthCare"></p>
+          <p><p><img src="
+
+
+
+
+" alt="AI and Healthcare Image"></p>
+<p>{{ $original := .Page.Resources.GetMatch (printf &ldquo;<em>%s</em>.{png,jpg}&rdquo; (.Get &ldquo;src&rdquo;)) }}</p>
 <p>Modern healthcare system has been progressing significantly over past couple of
 years. One of the main driven factors is the development of artificial
 intelligent. In this post, we will look at some key milestones of this

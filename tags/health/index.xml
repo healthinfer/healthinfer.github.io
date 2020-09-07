@@ -17,7 +17,13 @@
       <pubDate>Fri, 04 Sep 2020 15:44:26 +1000</pubDate>
       
       <guid>https://healthinfer.com/posts/sample-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;%22/image/post/ai-healthcare.jpg%22&#34; alt=&#34;AI and HealthCare&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;
+
+
+
+
+&#34; alt=&#34;AI and Healthcare Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{{ $original := .Page.Resources.GetMatch (printf &amp;ldquo;&lt;em&gt;%s&lt;/em&gt;.{png,jpg}&amp;rdquo; (.Get &amp;ldquo;src&amp;rdquo;)) }}&lt;/p&gt;
 &lt;p&gt;Modern healthcare system has been progressing significantly over past couple of
 years. One of the main driven factors is the development of artificial
 intelligent. In this post, we will look at some key milestones of this

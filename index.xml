@@ -6,10 +6,39 @@
     <description>Recent content on HealthInfer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 15:44:26 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 09:30:11 +1000</lastBuildDate>
     
 	<atom:link href="https://healthinfer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ai in Medicine</title>
+      <link>https://healthinfer.com/posts/ai-in-medicine/</link>
+      <pubDate>Mon, 07 Sep 2020 09:30:11 +1000</pubDate>
+      
+      <guid>https://healthinfer.com/posts/ai-in-medicine/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;img class=&#34;twelve columns&#34;
+     sizes=&#34;(min-width: 35em) 1200px, 100vw&#34;
+    srcset=&#39;
+    
+      /posts/ai-in-medicine/ai-healthcare_hu66ee2f285e93ccc3b3a169b894295421_160725_500x0_resize_q75_box.jpg 500w
+    
+    
+      , /posts/ai-in-medicine/ai-healthcare_hu66ee2f285e93ccc3b3a169b894295421_160725_800x0_resize_q75_box.jpg 800w
+    
+    
+    &#39;
+    
+      src=&#34;https://healthinfer.com/posts/ai-in-medicine/ai-healthcare.jpg&#34;
+    
+    alt=&#34;some caption&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Modern medicine is moving fast and it is owing to advances in many aspects of
+life science. In this article, we will review some of the great break-through
+findings over the last decade.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Sample Post</title>
@@ -17,7 +46,13 @@
       <pubDate>Fri, 04 Sep 2020 15:44:26 +1000</pubDate>
       
       <guid>https://healthinfer.com/posts/sample-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;%22/image/post/ai-healthcare.jpg%22&#34; alt=&#34;AI and HealthCare&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;
+
+
+
+
+&#34; alt=&#34;AI and Healthcare Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{{ $original := .Page.Resources.GetMatch (printf &amp;ldquo;&lt;em&gt;%s&lt;/em&gt;.{png,jpg}&amp;rdquo; (.Get &amp;ldquo;src&amp;rdquo;)) }}&lt;/p&gt;
 &lt;p&gt;Modern healthcare system has been progressing significantly over past couple of
 years. One of the main driven factors is the development of artificial
 intelligent. In this post, we will look at some key milestones of this
